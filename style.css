@@ -1,0 +1,17 @@
+body {
+    background-color: lightgreen;
+    }
+
+
+h1 {
+    text-align: center;
+    background-color: orange;
+    font-family: "Garamond","Times New Roman",serif;
+    
+}
+
+li {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: "Arial", "Verdana", sans-serif;
+}
